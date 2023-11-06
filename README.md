@@ -13,7 +13,8 @@ Uygulamada aşağıdaki özellikler bulunmaktadır:
 
 ## Ekran görüntüleri
 
-<img width="798" alt="Ekran görüntüsü 2023-11-06 200243" src="https://github.com/muhammedlyas/KutuphaneUygulamasi/assets/113562315/81f577bf-8c9d-4cb3-bf89-a67a74113a61">
+<img width="798" alt="Ekran görüntüsü 2023-11-06 200243" src="https://github.com/muhammedlyas/KutuphaneUygulamasi/assets/113562315/f95b7837-05ef-41c6-8586-31d1f01404a2">
+
 
 <img width="795" alt="Ekran görüntüsü 2023-11-06 200429" src="https://github.com/muhammedlyas/KutuphaneUygulamasi/assets/113562315/f00595f9-512a-4fad-9e7f-b93488cf837a">
 
