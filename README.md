@@ -1,8 +1,15 @@
 # KutuphaneUygulamasi
-Bu uygulama Asp.Net.Core MVC ile geliştirilmiştir ve databese kısmında mssql kullanılmıştır. 
-Bu projede,kullanıcı girişi yapıldıktan sonra kütüphanedeki kitapların takibi ve ödünç verilmesi için bir uygulama geliştirilmiştir. Projede aşağıdaki özellikler bulunmaktadır.
-Kullanıcı kitabı ödünç almak istediği zaman ödünç al kısmından adını soyadı girdikten sonra geri getirme tarihinide belirtir, geri getirme tarihi dolduktan sonra o kitap tekrar kütüphane eklenir
-kullanıcı kitap ekleme kısmından kitabın adı, yazarı ve resmini ekleyebilir. Projeye ileriki zamanlarda daha fazla fonksiyonlar eklenecektir. 
+Kullanıcı girişi yapıldıktan sonra kütüphanedeki kitapların takibi ve ödünç verilmesi için bir ASP.NET Core MVC uygulamasıdır.
+
+## Özellikler
+
+Uygulamada aşağıdaki özellikler bulunmaktadır:
+
+- Kullanıcılar, kitap ödünç almak istediklerinde adlarını ve soyadlarını girebilirler. Ayrıca geri getirme tarihini belirleyebilirler. Kitabın geri getirme tarihi geçtikten sonra, kitap otomatik olarak kütüphaneye geri eklenir.
+
+- Kullanıcılar, yeni kitapları kütüphaneye eklemek için kitap ekleme bölümünü kullanabilirler. Kitap adı, yazarı ve resmi yüklenerek kütüphaneye yeni kitaplar eklenebilir.
+
+- Projeye gelecekte daha fazla özellik ve geliştirmeler eklenecektir.
 
 ## Ekran görüntüleri
 
