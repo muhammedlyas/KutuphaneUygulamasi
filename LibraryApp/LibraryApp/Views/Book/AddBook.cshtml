@@ -1,0 +1,33 @@
+﻿@model Book
+<link rel="stylesheet" href="~/css/site.css">
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AddBook</title>
+    <style>
+        button[type="submit"] {
+            background-color: orangered;
+        }
+    </style>
+</head>
+<body>
+<div>
+    <form asp-controller="Book" asp-action="AddBook" method="post" enctype="multipart/form-data">
+        <div>
+            <label asp-for="Name"></label>
+            <input asp-for="Name" />
+        </div>
+        <div>
+            <label asp-for="Author"></label>
+            <input asp-for="Author" />
+        </div>
+        <div>
+            <label asp-for="ImageFile">Book Image</label>
+            <input asp-for="ImageFile" type="file" />
+        </div>
+        <button type="submit">Add Book</button>
+    </form>
+</div>
+</body>
+</html>

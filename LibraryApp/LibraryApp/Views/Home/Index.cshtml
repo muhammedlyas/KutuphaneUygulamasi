@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Library Login Screen";
+}
+
+<style>
+    
+    .text-white {
+        color: orangered;
+    }
+
+    .btn-primary {
+        background-color: orangered; 
+    }
+
+        .btn-primary:hover {
+            background-color: orange;
+        }
+</style>
+
+<div class="container text-center mt-5">
+    <h1 class="display-4 text-black">Welcome to the Library</h1>
+    
+    <a href="@Url.Action("Login", "Account")" class="btn btn-primary btn-lg">Log In</a>
+</div>
