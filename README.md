@@ -33,6 +33,6 @@ Uygulamada aşağıdaki özellikler bulunmaktadır:
 Proje yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 1. Projeyi klonlayın.
-2. Gerekli nuGet paketlerini yükleyin: Microsoft.EntityFrameworkCore dotnet add package Microsoft.EntityFrameworkCore.SqlServer dotnet add package Microsoft.EntityFrameworkCore.Tools dotnet add package Pomelo.EntityFrameworkCore.MySql
+2. Gerekli nuGet paketlerini yükleyin: Microsoft.EntityFrameworkCore dotnet add package Microsoft.EntityFrameworkCore.SqlServer dotnet add package Microsoft.EntityFrameworkCore.Tools dotnet
 3. Database bağlantısını gerçekleştirin. 
 4. Programı çalıştırın
